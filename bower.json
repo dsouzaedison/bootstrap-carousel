@@ -1,0 +1,20 @@
+{
+  "name": "bootstrap-carousel",
+  "homepage": "https://github.com/dsouzaedison/bootstrap-carousel",
+  "authors": [
+    "dsouzaedison <dsouzaedison11@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}

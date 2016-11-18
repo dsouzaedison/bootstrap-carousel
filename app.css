@@ -1,0 +1,10 @@
+.carousel-image {
+    width: 100%;
+    height: 350px !important;
+}
+
+.banner-text {
+    position: absolute;
+    top: 30px;
+    text-align: center;
+}
